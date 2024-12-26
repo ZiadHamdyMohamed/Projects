@@ -1,0 +1,3 @@
+C:/Users/abum6/OneDrive/Desktop/TeamGotamM2/cmake-build-debug/CMakeFiles/team_gotham.dir
+C:/Users/abum6/OneDrive/Desktop/TeamGotamM2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abum6/OneDrive/Desktop/TeamGotamM2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
